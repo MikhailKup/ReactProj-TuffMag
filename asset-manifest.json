@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactProj-TuffMag/static/css/main.7880a566.css",
+    "main.js": "/ReactProj-TuffMag/static/js/main.b7562323.js",
+    "static/media/computer.png": "/ReactProj-TuffMag/static/media/computer.5e56530d0ea3793fd73d.png",
+    "static/media/banner.png": "/ReactProj-TuffMag/static/media/banner.60b57e7c22678c62bf30.png",
+    "static/media/User.png": "/ReactProj-TuffMag/static/media/User.561538768715765f3d3e.png",
+    "static/media/devices.png": "/ReactProj-TuffMag/static/media/devices.a0974f63230d0b90cbec.png",
+    "static/media/jeverlyCat.jpg": "/ReactProj-TuffMag/static/media/jeverlyCat.75c0baddf9a6b35ff83b.jpg",
+    "static/media/shoe.png": "/ReactProj-TuffMag/static/media/shoe.db601c8f04844976b606.png",
+    "static/media/womensCat.jpg": "/ReactProj-TuffMag/static/media/womensCat.966abf93723c85ae2a11.jpg",
+    "static/media/mensCat.jpg": "/ReactProj-TuffMag/static/media/mensCat.d1f03eee34d0fc1e54b0.jpg",
+    "static/media/electronicsCat.jpg": "/ReactProj-TuffMag/static/media/electronicsCat.d994c4734c45cc2c2c69.jpg",
+    "static/media/logo.svg": "/ReactProj-TuffMag/static/media/logo.fb6afde46b43989ab58d298634d1c757.svg",
+    "index.html": "/ReactProj-TuffMag/index.html",
+    "main.7880a566.css.map": "/ReactProj-TuffMag/static/css/main.7880a566.css.map",
+    "main.b7562323.js.map": "/ReactProj-TuffMag/static/js/main.b7562323.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7880a566.css",
+    "static/js/main.b7562323.js"
+  ]
+}
